@@ -6,4 +6,5 @@ import(
 
 func main(){
     fmt.Println("master")
+    fmt.Printin("hot-fix")
 }
